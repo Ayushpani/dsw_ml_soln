@@ -60,7 +60,10 @@ python model_.py
 
 ---
 
+
 ## Methodology
+
+![flow chart](https://github.com/user-attachments/assets/4afdd2f9-1252-4b58-bf57-ae99403fe158)
 
 ### Exploratory Data Analysis (EDA)
 1. **Overview of Data**:

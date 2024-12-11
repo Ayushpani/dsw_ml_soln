@@ -124,4 +124,4 @@ Future improvements could include:
 ---
 
 ## Contact
-For any questions or issues, feel free to reach out at [your_email@example.com].
+For any questions or issues, feel free to reach out at [ayushpanigrahi84@gmail.com].

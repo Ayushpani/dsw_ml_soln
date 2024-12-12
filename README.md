@@ -60,7 +60,11 @@ python model_.py
 
 ---
 
+
 ## Methodology
+
+![flowChart](https://github.com/user-attachments/assets/eadd55a2-9c09-4c6a-a906-ab24efd807bb)
+
 
 ### Exploratory Data Analysis (EDA)
 1. **Overview of Data**:
@@ -124,4 +128,4 @@ Future improvements could include:
 ---
 
 ## Contact
-For any questions or issues, feel free to reach out at [your_email@example.com].
+For any questions or issues, feel free to reach out at [ayushpanigrahi84@gmail.com].
